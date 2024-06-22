@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TobNPRn4ZbM=",
+  "dgSpecHash": "/8Wj3i/pB4Q=",
   "success": true,
-  "projectFilePath": "D:\\Manish\\WebAPP\\WebAPP\\WebAPP.csproj",
+  "projectFilePath": "D:\\Manish\\.Net6Angular\\.Net\\WebAPP\\WebAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Global\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Global\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.23\\microsoft.aspnetcore.authentication.jwtbearer.6.0.23.nupkg.sha512",

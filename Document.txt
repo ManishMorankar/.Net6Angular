@@ -1,0 +1,7 @@
+create database with code first 
+
+add-migration v1                  // add column, drop column
+
+update-database
+
+Password strength checker in Angular | Check existing Email

@@ -2491,11 +2491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Manish\\WebAPP\\WebAPP\\WebAPP.csproj",
+      "projectUniqueName": "D:\\Manish\\.Net6Angular\\.Net\\WebAPP\\WebAPP.csproj",
       "projectName": "WebAPP",
-      "projectPath": "D:\\Manish\\WebAPP\\WebAPP\\WebAPP.csproj",
+      "projectPath": "D:\\Manish\\.Net6Angular\\.Net\\WebAPP\\WebAPP.csproj",
       "packagesPath": "C:\\Users\\Global\\.nuget\\packages\\",
-      "outputPath": "D:\\Manish\\WebAPP\\WebAPP\\obj\\",
+      "outputPath": "D:\\Manish\\.Net6Angular\\.Net\\WebAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Global\\AppData\\Roaming\\NuGet\\NuGet.Config",
